@@ -1,0 +1,8 @@
+numpy==1.26.4
+opencv-python==4.11.0.86
+opencv-contrib-python==4.11.0.86
+pygame==2.6.1
+mediapipe==0.10.21
+matplotlib==3.7.2
+kiwisolver==1.4.4
+Pillow==9.5.0
